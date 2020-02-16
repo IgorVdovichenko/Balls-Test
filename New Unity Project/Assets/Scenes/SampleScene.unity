@@ -187,6 +187,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &952686656
 GameObject:
   m_ObjectHideFlags: 0
@@ -550,5 +551,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2135064943}
   m_CullTransparentMesh: 0
+=======
+>>>>>>> parent of d11a6d7... AddImage
 =======
 >>>>>>> parent of d11a6d7... AddImage
